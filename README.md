@@ -1,2 +1,1 @@
-# prepCourse_Henry
-repositorio de prueba
+este proyecto es una prueba de como crear un repositorio remoto y clonarlo desde github a mi escritorio local
